@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>What We Want</title>
+</head>
+
+<body>
+
+<h1>What We Want</h1>
+
+<a href="index.html">Home</a>
+
+<ul>
+
+<li>Greater investment in renewable energy</li>
+
+<li>Stronger protection for forests and wildlife</li>
+
+<li>Reduced plastic waste</li>
+
+<li>Improved public transport systems</li>
+
+<li>Better climate education in schools</li>
+
+<li>Government action to meet climate targets</li>
+
+</ul>
+
+</body>
+</html>

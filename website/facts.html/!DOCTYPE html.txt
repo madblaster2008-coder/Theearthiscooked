@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Climate Facts</title>
+</head>
+
+<body>
+
+<h1>Climate Facts</h1>
+
+<a href="index.html">Home</a>
+
+<ul>
+
+<li>Carbon dioxide traps heat in Earth's atmosphere.</li>
+
+<li>Renewable energy includes solar, wind and hydroelectric power.</li>
+
+<li>Recycling reduces waste sent to landfill.</li>
+
+<li>Deforestation contributes to biodiversity loss.</li>
+
+<li>Small lifestyle changes can reduce environmental impact.</li>
+
+</ul>
+
+</body>
+</html>

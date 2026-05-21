@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>News | The Earth Is Cooked</title>
+</head>
+
+<body>
+
+<h1>The Earth Is Cooked - News & Blog</h1>
+
+<a href="index.html">Home</a>
+
+<h2>Latest Updates</h2>
+
+<h3>Why Trees Matter</h3>
+<p>
+Trees absorb carbon dioxide and provide habitats for wildlife.
+Protecting forests is one way to help tackle climate change.
+</p>
+
+<h3>Plastic Pollution Crisis</h3>
+<p>
+Millions of tonnes of plastic enter oceans every year.
+Reducing single-use plastics can make a difference.
+</p>
+
+</body>
+</html>

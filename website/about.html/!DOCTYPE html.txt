@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Us</title>
+</head>
+
+<body>
+
+<h1>About The Earth Is Cooked</h1>
+
+<a href="index.html">Home</a>
+
+<p>
+The Earth Is Cooked was created to encourage people to engage with
+environmental issues and support positive change.
+</p>
+
+<p>
+We believe pressure groups can influence policy, inform the public
+and create momentum for environmental protection.
+</p>
+
+</body>
+</html>
